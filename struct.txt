@@ -1,0 +1,12 @@
+project-directory/
+├── index.html          (Home Page)
+├── order.html          (Order Page)
+├── feasibility.html    (Feasibility Study Page)
+├── team.html           (Founders & Team Page)
+├── styles.css          (CSS for styling all pages)
+├── images/             (Directory for images)
+│   ├── logo.jpg        (Logo of the website)
+│   ├── 1.jpg           (Product or promotional image 1)
+│   ├── 2.jpg           (Product or promotional image 2)
+│   ├── 3.jpg           (Product or promotional image 3)
+│   ├── blank.jpg       (Placeholder image for team members)
