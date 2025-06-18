@@ -42,7 +42,7 @@ This project is designed as a multi-page, responsive website for a startup conce
 > 📍 Add screenshots in the README using:
 
 ```markdown
-![Homepage Screenshot](images/1.png)
+![Homepage Screenshot](1.png)
 ```
 
 ---
@@ -72,7 +72,7 @@ This project can be part of:
 - 👨‍💻 Muhammad Ehtisham — Frontend Developer, Project Lead  
 - 👩‍🔬 Saira — Sustainability Analyst  
 - 👨‍🔧 Jawad — System Designer  
-- ...and others
+- 👨‍🔧 Soban Malik
 
 📬 [Connect on LinkedIn](https://www.linkedin.com/in/ehtishamcyber/)  
 🌐 [Portfolio Website](https://www.ehtisham.space)
